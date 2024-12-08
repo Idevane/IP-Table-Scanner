@@ -31,5 +31,5 @@ The **IP-Table-Scanner** is a program that analyzes and classifies IP addresses.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IP-Table-Scanner.git
+   git clone https://github.com/idevane/IP-Table-Scanner.git
    cd IP-Table-Scanner
