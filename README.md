@@ -33,3 +33,9 @@ The **IP-Table-Scanner** is a program that analyzes and classifies IP addresses.
    ```bash
    git clone https://github.com/idevane/IP-Table-Scanner.git
    cd IP-Table-Scanner
+
+## Contact
+
+- **Author:** Isaac DeVaney  
+- **Email:** isaacdevaney@gmail.com
+- **GitHub:** idevane
